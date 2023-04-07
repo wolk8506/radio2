@@ -9,8 +9,8 @@ body{
     margin-right: auto;
 }
 #rad_stationname{
-    width: 167px!important;
+    width: 160px!important;
 }
-/* #rad_block_select{
-    width: 200px !important;
-} */
+#rad_player{
+    width: 340px !important;
+}
